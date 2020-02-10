@@ -1,0 +1,89 @@
+p
+{
+	/*color: #bd2e0f;
+	font-size: 15px;
+	font-family: Arial,Arial Black,Georgia;
+	font-weight: bold;
+	text-align: justify;*/
+	 width: 350px;
+    border: 1px solid black;
+    text-align: justify;
+    padding: 12px;
+
+
+}
+h1
+{
+	color: red;
+	font-size: 37px;
+	font-style: oblique;
+	text-align: center;
+	border-radius: 3px;
+
+}
+h4,em
+{
+	color: #0fbdbd;
+}
+h2
+{
+	color: #0f2cbd;
+	font-style: italic;
+	text-decoration: underline;
+
+}
+ul
+{
+	color: purple;
+	font-family: Georgia,Arial;
+	font-weight: bold;
+}
+.a
+{
+	color: red;
+
+}
+.b,.e
+{
+	color: black;
+}
+.c
+{
+	color: #059326;
+	font-weight: bolder;
+}
+.logo
+{
+	color: red;
+}
+.d
+{
+	color: blue;
+}
+#id
+{
+
+}
+a[title="Cliquez ici"]
+{
+	color: #58f709;
+}
+.dessus
+{
+	text-decoration: overline;
+}
+.flotante
+{
+	float: center;
+}
+body
+{
+	background: silver;
+	border: 6px black double;
+
+
+}
+.opac,.opac2
+{
+	opacity: 0.5;
+}
